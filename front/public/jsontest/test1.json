@@ -1,0 +1,7 @@
+[
+    { "date": "Día 1", "fingerAngle": 30, "force": 5, "mobilityScore": 20 },
+    { "date": "Día 2", "fingerAngle": 45, "force": 20, "mobilityScore": 60 },
+    { "date": "Día 3", "fingerAngle": 30, "force": 25, "mobilityScore": 20 },
+    { "date": "Día 4", "fingerAngle": 15, "force": 15, "mobilityScore": 70 },
+    { "date": "Día 5", "fingerAngle": 50, "force": 5, "mobilityScore": 55 }
+  ]
